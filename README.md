@@ -14,4 +14,4 @@ The powerpoint and PDF are included as well as a student checklist document for 
  The JUnit and console IO video:
  
  # Code
-The demo.controller package (directory) has the sample student code that does not pass the tests. The demo.tests package has the sample tests from the presentations including the JFrame and JPanel subclass tests.
+The demo.controller package (directory) has the sample student code that does not pass the tests. The demo.tests package has the sample tests from the presentation. The GUI tests folder includes the JPanel subclass tests.
