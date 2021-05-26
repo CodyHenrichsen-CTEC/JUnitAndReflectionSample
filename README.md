@@ -7,7 +7,10 @@ The powerpoint and PDF are included as well as a student checklist document for 
  # Youtube
  The JUnit and Reflection video is here: 
  
+ https://www.youtube.com/watch?v=50hwe90eicc
+ 
  The walkthrough of resolving the failed tests:
+ 
  
  The JUnit basics video:
  
