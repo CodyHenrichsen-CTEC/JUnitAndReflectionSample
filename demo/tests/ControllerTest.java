@@ -68,8 +68,8 @@ public class ControllerTest
 				}
 			}
 		}
-		assertEquals(requiredCount == 2, "Both required methods not present");
-		assertEquals(requiredVisibility == 2, "Both methods need to have public visibility");
+		assertTrue(requiredCount == 2, "Both required methods not present");
+		assertTrue(requiredVisibility == 2, "Both methods need to have public visibility");
 	}
 	
 	@Test
