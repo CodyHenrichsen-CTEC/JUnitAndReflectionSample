@@ -15,9 +15,9 @@ The powerpoint and PDF are included as well as a student checklist document for 
  
  The JUnit basics videos
  
- Problem solving: https://www.youtube.com/watch?v=vITtsgo0L-s
- Adding to eclipse: https://www.youtube.com/watch?v=m99fTDLTGlY
- Teachers: https://www.youtube.com/watch?v=qk5BKwYl970
+ * Problem solving: https://www.youtube.com/watch?v=vITtsgo0L-s
+ * Adding to eclipse: https://www.youtube.com/watch?v=m99fTDLTGlY
+ * Teachers: https://www.youtube.com/watch?v=qk5BKwYl970
  
  The JUnit and console IO video
  
