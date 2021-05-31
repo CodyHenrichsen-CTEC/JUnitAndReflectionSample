@@ -4,6 +4,11 @@
  # Presentation
 The powerpoint and PDF are included as well as a student checklist document for adding tests to an eclipse project. Feel free to modify for your IDE choice
 
+ # Instructions
+ Here is a google doc of how to do the console based tests as well.  
+ * https://docs.google.com/document/d/1fQQQvo0nqY-KLCAFtXIoukB-PcN5JjQ4b5Ue4u1GGj8/edit?usp=sharing
+ 
+
  # Youtube
  The JUnit and Reflection video is here :sparkles: 
  
